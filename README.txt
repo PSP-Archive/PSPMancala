@@ -1,6 +1,6 @@
 Instructions
 --------------
-- Install [psptoolchain](https://github.com/pspdev/psptoolchain)
+- Install https://github.com/pspdev/psptoolchain
 - Open the src directory in a terminal and type `make`
 - Copy the resulting EBOOT.PBP to a folder called PSP/GAME/PSPMancala on your PSP, along with the contents of the `assets` folder (not the assets folder itself)
 
