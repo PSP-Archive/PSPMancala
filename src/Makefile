@@ -49,8 +49,8 @@ PSPMANCALA_VERSION=1.1.0
 CFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS)
 CXXFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS) -fno-exceptions -fno-rtti
 
-LIBS += -lpspwlan -lpspnet_inet -lpsppower -lSDL_image -lSDL_ttf -lSDL -lfreetype \
-        -lpng -ljpeg -lpspaudio -lpspgu -lpsphprm -lz -lm 
+LIBS += -lpspwlan -lpspnet_inet -lSDL_image -lSDL_ttf -lSDL -lGL -lfreetype \
+        -lpng -ljpeg -lpspvfpu -lpspirkeyb -lpsprtc -lpspaudio -lpspgu -lpsppower -lpsphprm -lz -lm 
 
 BUILD_PRX=1
 
