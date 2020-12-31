@@ -1,0 +1,24 @@
+1.1.0
+- New graphics and eboot icons
+- Add music from latest album of NeXuS (Phenom)
+  http://www.jamendo.com/en/album/51921 
+- Bug fix in AI (now it is much stronger !)
+
+1.0.3
+
+- Compatible with custom 3.x firmwares (and i hope with psp slim)
+- New graphics and eboot icons
+- Add Intro Splash screen
+- Support iso8859-1 fonts in print text functions
+(might be useful to translate menus in german, french ...)
+
+1.0.2
+
+- We can now play two mancala variants (common Mancala and Awari)
+- The IA has been modified and should be stronger now
+- Final score is now properly computed
+- Small bug fix
+
+1.0.1
+
+- Intial release

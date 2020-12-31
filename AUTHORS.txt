@@ -1,0 +1,13 @@
+AI MiniMax : 
+
+  H. Huseby & G.T. Lines
+
+PSP-Mancala  : PSP version
+GP2X-Mancala : GP2X-F100 version
+Wiz-Mancala  : GP2X-Wiz version
+Dingux-Mancala : Dingoo-Dingux version
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)
+
+  (see http://zx81.zx81.free.fr/)
+
